@@ -4,11 +4,11 @@
 
 ## Project Details
 
-## Project Video Drive URL: 
+## Project Video Drive URL:https://drive.google.com/file/d/12r3dtAsfLkhdo4vD13_ozb7ubaJReMLu/view?usp=sharing 
 
-## Project Documentation Drive URL: 
+## Project Documentation Drive URL: https://drive.google.com/file/d/16rAQ1hAKUvAo8MtSvhKhfFICSsvj3ISy/view?usp=sharing
 
-## Project URL: 
+## Project URL: https://b35b-43-241-134-172.ngrok-free.app
 
 
 ## Problem Statement:
@@ -38,6 +38,12 @@ Azure Ai Translator Service: Ensure that you have translator service key, region
 Dependencies: Ensure required libraries and frameworks are installed. Include translation API keys for language support.
 Configuration: Adjust system parameters, collaborative filtering weights, and translation settings in the configuration file.
 Training: Train machine learning models using historical data for optimal performance. Set up translation model if applicable
+
+## DataSet Used
+Fashion Product Images (Small) (Size 593 MB) https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+
+Fashion Product Images Dataset (Size 25GB) https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+
 
 
 ## Azure Services Used:
@@ -74,9 +80,6 @@ The core of the translation functionality is powered by Azure AI Translator serv
 
 ## Description :
 Here I am attaching the final working website's screenshot for the reference.
-![image](https://github.com/srush2906/Fashion-Recommender-System/assets/115866345/ea869fee-6738-4a4c-bc0b-067ee803ec9a)
-
-![image](https://github.com/srush2906/Fashion-Recommender-System/assets/115866345/e0e72cc1-9d6c-4ca4-9536-421e6129a54e)
 
 
 
@@ -96,4 +99,4 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
 ## Contact:
-For questions or suggestions, please contact [jawale.srushti@gmail.com]
+For questions or suggestions, please contact [vishalbochare.3535@gmail.com]
